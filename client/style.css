@@ -172,6 +172,7 @@ input {
   width: 800px;
   height: 700px;
   border: ridge 5px;
+  overflow: auto;
 }
 
 /* CHAT BUTTON */
@@ -373,7 +374,7 @@ input {
 
 .bot-msg p {
   max-width: 100%;
-  background-color: #626baa;
+  background-color: hwb(206 17% 77%);
   display: inline-block;
   color: blanchedalmond;
   border-radius: 15px;
